@@ -1,3 +1,6 @@
+![Arnav](file:///C:/Users/Pc/Documents/Arnav%20Arora/Banner%20(1).png)
+
+
 - 👋 Hi, I’m @iamarnavarora
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning React JS 
