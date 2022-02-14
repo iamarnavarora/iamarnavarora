@@ -1,4 +1,4 @@
-![Arnav](file:///C:/Users/Pc/Documents/Arnav%20Arora/Banner%20(1).png)
+
 
 
 - 👋 Hi, I’m @iamarnavarora
